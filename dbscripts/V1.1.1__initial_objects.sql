@@ -5,5 +5,5 @@ COL1 VARCHAR
 ,COL2 VARCHAR
 ); 
 
-/*new comment*/ 
-/*account qs14434 */ 
+/*yml script changed*/ 
+
