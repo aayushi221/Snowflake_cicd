@@ -6,3 +6,4 @@ COL1 VARCHAR
 ); 
 
 /*new comment*/ 
+/*account qs14434 */ 
