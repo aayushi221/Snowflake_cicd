@@ -7,4 +7,3 @@ COL1 VARCHAR
 
 /*yml script changed*/ 
 
-/*yml sSSScript changed*/ 
