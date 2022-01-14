@@ -5,5 +5,5 @@ COL1 VARCHAR
 ,COL2 VARCHAR
 ); 
 
-/*yml script changed*/ 
+
 
