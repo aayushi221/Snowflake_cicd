@@ -5,4 +5,4 @@ CREATE TABLE HELLO_WORLD
   ,LAST_NAME VARCHAR
 );
 
-/* hope it works */
+
